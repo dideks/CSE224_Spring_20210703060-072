@@ -1,0 +1,19 @@
+Design Name: lab2_behavE
+Run Directory: /openlane/designs/lab2/runs/RUN_2025.05.04_21.05.55
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/lab2/runs/RUN_2025.05.04_21.05.55/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/lab2/runs/RUN_2025.05.04_21.05.55/logs/signoff/37-lab2_behavE.lef.lvs.log
+Number of nets: 231                        |Number of nets: 231                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/lab2/runs/RUN_2025.05.04_21.05.55/logs/signoff/40-arc.log
+Pin violations: 1
+Net violations: 1

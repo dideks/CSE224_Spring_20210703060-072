@@ -1,0 +1,1 @@
+lvs {/openlane/designs/lab2/runs/RUN_2025.05.04_21.05.55/results/signoff/lab2_behavE.spice lab2_behavE} {/openlane/designs/lab2/runs/RUN_2025.05.04_21.05.55/tmp/signoff/34-lab2_behavE.pnl.v lab2_behavE} /Users/Dide/.volare/sky130A/libs.tech/netgen/sky130A_setup.tcl /openlane/designs/lab2/runs/RUN_2025.05.04_21.05.55/logs/signoff/37-lab2_behavE.lef.lvs.log -json
