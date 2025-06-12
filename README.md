@@ -1,11 +1,18 @@
 CSE 224 
 Dide Köse - Gökay Kuşlaroğlu
 
+# Not
+
+Hocam merhaba,
+
+OpenLane akışında bilgisayarlarımızda sürekli hata aldık, bu durumu sizinle de birkaç kez konuşmuştuk. Bu yüzden sadece `.gds` dosyalarını yükleyebildik, bazılarını da boyut nedeniyle zipleyerek ekledik. Kodlar da dosyanın içinde mevcut.
+
+Bu durumu göz önünde bulundurarak değerlendirirseniz çok seviniriz.  
+
 
 # Submission Details
 
-For each project, the `.gds` file has been provided as the primary output.  
-Due to file size limitations, 3 of the `.gds` files are submitted as compressed `.zip` archives.  
+For each project, the `.gds` file has been provided as the primary output.    
 Only `.gds` files were uploaded, as per instructor guidance. Source Verilog files and full OpenLane runs can be provided upon request.
 
 ## Included Projects
