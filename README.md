@@ -9,6 +9,8 @@ OpenLane akışında bilgisayarlarımızda sürekli hata aldık, bu durumu sizin
 
 Bu durumu göz önünde bulundurarak değerlendirirseniz çok seviniriz.  
 
+Ayrıca “first OpenLane project” yazan açıklamalı tasarım 1. projeye aittir.
+
 
 # Submission Details
 
