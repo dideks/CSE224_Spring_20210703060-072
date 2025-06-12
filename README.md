@@ -5,7 +5,7 @@ Dide Köse - Gökay Kuşlaroğlu
 
 Hocam merhaba,
 
-OpenLane akışında bilgisayarlarımızda sürekli hata aldık, bu durumu sizinle de birkaç kez konuşmuştuk. Bu yüzden sadece `.gds` dosyalarını yükleyebildik, bazılarını da boyut nedeniyle zipleyerek ekledik. Kodlar da dosyanın içinde mevcut.
+OpenLane akışında bilgisayarlarımızda sürekli hata aldık, bu durumu sizinle de birkaç kez konuşmuştuk. Bu yüzden sadece `.gds` dosyalarını yükleyebildik. Kodlar da dosyanın içinde mevcut.
 
 Bu durumu göz önünde bulundurarak değerlendirirseniz çok seviniriz.  
 
