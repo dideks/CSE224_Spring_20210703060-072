@@ -13,9 +13,9 @@ Only `.gds` files were uploaded, as per instructor guidance. Source Verilog file
 - `project1/` → contains `project1.gds`  
 - `project2/` → contains `project2.gds`  
 - `project3/` → contains `project3.gds`  
-- `project4/` → contains `proje4.gds.zip`  
-- `project5/` → contains `proje5.gds.zip`  
-- `project6/` → contains `proje6.gds.zip`  
+- `project4/` → contains `proje4.gds`  
+- `project5/` → contains `top_module.gds`  
+- `project6/` → contains `top_module.gds`  'they are different'
 
 Thank you.
 
